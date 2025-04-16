@@ -1,6 +1,6 @@
-## Hi there 👋, I'm AGNEY :)
+<h1 align= "center">Hi there 👋, I'm AGNEY :)</h1> 
 
-I'm a passionate full stack developer, designer and artist with a knack for building intutive high-performing applicaitons that brings ideas to life.
+<p align= "center">I'm a passionate full stack developer, designer and artist with a knack for building intutive high-performing applicaitons that brings ideas to life.</p>
 
 # 🚀 Me
 🔭 I’m currently working as a System Engineer in TCS<br>🌱 I’m currently learning Full stack Development.<br>💬 Ask me about Front end Development<br>
