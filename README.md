@@ -10,8 +10,8 @@ I'm a passionate full stack developer, designer and artist with a knack for buil
 # ⏳ Stats
 <p align = "center">
   <img align = "center" height = "200" src = "https://github-readme-stats.vercel.app/api?username=agneysaidas&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" /> <br/> <br/>
-  <img align = "center" height = "200"  src = "https://nirzak-streak-stats.vercel.app/?user=agneysaidas&theme=transparent&hide_border=false" /><br/> <br/>
-    <img align = "center" height= "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agneysaidas&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img align = "center" height = "200" src = "https://nirzak-streak-stats.vercel.app/?user=agneysaidas&theme=transparent&hide_border=false" /><br/> <br/>
+  <img align = "center" height= "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agneysaidas&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 
