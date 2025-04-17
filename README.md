@@ -1,4 +1,4 @@
-<h1 align= "center">Hi there 👋, I'm AGNEY :)</h1> 
+<h1 align= "center">Hi there 👋, It's me AGNEY :)</h1> 
 
 <p align= "center">I'm a passionate full stack developer, designer and artist with a knack for building intutive high-performing applicaitons that brings ideas to life.</p>
 
