@@ -11,7 +11,7 @@
 <p align = "center">
    <img align = "center" src = "https://nirzak-streak-stats.vercel.app/?user=agneysaidas&theme=transparent&hide_border=true"/></br>
    <img align = "center" height = "200" src = "https://github-readme-stats.vercel.app/api?username=agneysaidas&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" /></br>
-   <img align = "center" height = "200" src =  "https://github-readme-stats.vercel.app/api/top-langs/?username=agneysaidas&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+   <img align = "center" height = "200" src =  "https://github-readme-stats.vercel.app/api/top-langs/?username=agneysaidas&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
 
